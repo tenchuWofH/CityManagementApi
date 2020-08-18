@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+sQ0Dk9A292wMz+FuVZyE5viH9BosZDB1wvKl1FMVpFSwb7JsY/1IVCfY/Nhcw1AlYP935euf6bSVBMWdfLOIg==",
+  "dgSpecHash": "6d/ZJqPmCUk+84Ld8CbOx9ZSS+7vphbPVtNA9wr/nNv5q3c2FiHaCRuRYsFIIUeIGd4ka5j/a4ZPOl5c5/APCw==",
   "success": true,
   "projectFilePath": "D:\\Pessoal\\Projects\\NetCore\\CityManagementApi\\CityManagementApi.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "D:\\Users\\silviob\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
   "logs": []
 }

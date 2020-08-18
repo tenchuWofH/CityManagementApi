@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "D:\\Users\\silviob\\.dotnet\\store\\|arch|\\|tfm|",
+      "D:\\Users\\silviob\\.nuget\\packages"
+    ]
+  }
+}
